@@ -8,9 +8,9 @@ import Contact from "./components/Contact.jsx";
 
 function App() {
   return (
-    <div >
+    <div>
       <NavBar/>
-      <Home/>
+      <Home/>      
       <About/>
       <Portfolio/>
       <Experience/>

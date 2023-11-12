@@ -4,16 +4,16 @@ const About = () => {
     return (
         <div
         name="about"
-        className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+        className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white "
       >
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-          <div className="pb-1">
+          <div className="pb-1 mt-36">
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">
               About
             </p>
           </div>
 
-          <div>
+          <div >
   
           <p className="text-xl mt-10">
           Welcome to my portfolio! I'm a passionate frontend developer with expertise in React, and I'm here to help you bring your ideas to life.
@@ -33,12 +33,9 @@ const About = () => {
           <p>5. Version Control: I'm experienced in using Git and GitHub, ensuring a smooth and organized development process.</p>
          
           <br />
-          <p>I take pride in delivering high-quality code, following best practices, and staying up-to-date with the latest industry trends. 
+          <p >I take pride in delivering high-quality code, following best practices, and staying up-to-date with the latest industry trends. 
             I'm dedicated to providing excellent communication, meeting project deadlines, and exceeding client expectations.</p>
-            <br />
-            <br />
-            <br />
-            <br />
+            
         </div>
             
             

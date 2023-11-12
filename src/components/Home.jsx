@@ -37,11 +37,11 @@ return (
             </div>
           </div>
   
-          <div>
+          <div >
             <img
               src={HeroImage}
               alt="my profile"
-              className="rounded-2xl mx-auto w-2/3 md:w-full"
+              className="rounded-2xl mx-auto w-2/3 md:w-full;"
             />
           </div>
         </div>
