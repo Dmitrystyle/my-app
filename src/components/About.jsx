@@ -7,31 +7,45 @@ const About = () => {
         className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
       >
         <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
-          <div className="pb-8">
+          <div className="pb-1">
             <p className="text-4xl font-bold inline border-b-4 border-gray-500">
               About
             </p>
           </div>
+
+          <div>
   
-          <p className="text-xl mt-20">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-            deserunt illum mollitia officiis qui exercitationem perferendis neque
-            quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-            iste, totam fugiat recusandae rerum laborum perferendis molestiae
-            aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-            ab mollitia voluptatibus, a nostrum eveniet laborum!
+          <p className="text-xl mt-10">
+          Welcome to my portfolio! I'm a passionate frontend developer with expertise in React, and I'm here to help you bring your ideas to life.
+          With years of experience in web development, I specialize in creating dynamic and interactive user interfaces using React. Whether you need a custom website, a responsive web application, or a mobile app, I can deliver a seamless user experience tailored to your specific needs.
           </p>
   
           <br />
+
+          <p > My skills include:</p>
+          <p> 1. React: I have a deep understanding of React and its ecosystem, including React Hooks, Redux, and React Router.</p>
+          <p> I can build scalable and reusable components, implement state management solutions, and optimize performance.</p>
+          <p> 2. HTML/CSS: I have a strong foundation in HTML and CSS, ensuring that your website or application is visually</p>
+          <p> stunning and responsive across different devices.</p>
+          <p>3. JavaScript: I'm proficient in JavaScript and can leverage its power to enhance interactivity and create dynamic user experiences.</p>
+          <p>4. UI/UX Design: I have a keen eye for design and usability. I can collaborate with you to create intuitive and visually appealing </p>
+          <p>interfaces that engage users and drive conversions.</p>
+          <p>5. Version Control: I'm experienced in using Git and GitHub, ensuring a smooth and organized development process.</p>
+         
+          <br />
+          <p>I take pride in delivering high-quality code, following best practices, and staying up-to-date with the latest industry trends. 
+            I'm dedicated to providing excellent communication, meeting project deadlines, and exceeding client expectations.</p>
+            <br />
+            <br />
+            <br />
+            <br />
+        </div>
+            
+            
+           
+          
   
-          <p className="text-xl">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-            pariatur, vel similique sint, nobis aspernatur ut praesentium
-            explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-            quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-            Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-            magni quo! Eum cupiditate debitis labore.
-          </p>
+          
         </div>
       </div>
     );
