@@ -12,6 +12,3 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Alt text](image-3.png)
 
-![Alt text](image-4.png)
-
-![Alt text](image-5.png)
