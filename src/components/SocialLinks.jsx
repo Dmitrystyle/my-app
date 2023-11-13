@@ -13,7 +13,7 @@ const SocialLinks = () => {
               LinkedIn <FaLinkedin size={30} />
             </>
           ),
-          href: "https://dmitrystyle.github.io/reactprogect",
+          href: "https://dmitrystyle.github.io/portfolio",
           style: "rounded-tr-md",
         },
         {
@@ -23,7 +23,7 @@ const SocialLinks = () => {
               GitHub <FaGithub size={30} />
             </>
           ),
-          href:  "https://github.com/Dmitrystyle/reactprogect"  ,
+          href:  "https://github.com/Dmitrystyle/portfolio"  ,
         },
         {
           id: 3,
