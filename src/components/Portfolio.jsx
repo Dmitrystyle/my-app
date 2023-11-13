@@ -13,6 +13,7 @@ const Portfolio = () => {
         {
           id: 1,
           src: shedulerTundan,
+          
         },
         {
           id: 2,
@@ -33,6 +34,26 @@ const Portfolio = () => {
         {
           id: 6,
           src: menu,
+        },
+      ];
+
+//add button functionals pass to origin github projects
+      const links = [
+        {
+          id: 1,             
+          href: "https://dmitrystyle.github.io/portfolio",
+        },
+        {
+          id: 2,
+           href:  "https://github.com/Dmitrystyle/portfolio"  ,
+        },
+        {
+          id: 3,
+          href: "mailto:GlukhovDmitry@yandex.com",
+        },
+        {
+          id: 4,
+          href: "/src/assets/resume.pdf",         
         },
       ];
     
@@ -69,14 +90,7 @@ const Portfolio = () => {
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"
               />
-              <div className="flex items-center justify-center">
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Demo
-                </button>
-                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                  Code
-                </button>
-              </div>
+
             </div>
           ))}
         </div>
