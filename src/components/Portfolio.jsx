@@ -55,7 +55,6 @@ const Portfolio = () => {
         <br />
         <br />
         <br />
-        <br />
           <p className="text-4xl font-bold inline border-b-4 border-gray-500">
             Portfolio
           </p>
